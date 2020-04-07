@@ -8,18 +8,19 @@ A simple application that downloads original or alternate movie poster and conve
 
 
 ### Installing
-
+```
 pip install requests
 pip install lxml
 pip install bs4
+```
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+
 
 ## Things learned
 
-tkinter,scraping with beautifulsoup4 and experimented various other .py libraries
+tkinter, scraping with beautifulsoup4 and experimented various other .py libraries
 
 
 ## License
