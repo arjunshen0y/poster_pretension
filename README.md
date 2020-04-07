@@ -1,2 +1,2 @@
 # poster_pretension
-a simple application that downloads original or alternate movie poster and set it as icon for the movie folder.
+a simple application that downloads original or alternate movie poster and convert it into icon.This can be later used to beautify the movie folder.
